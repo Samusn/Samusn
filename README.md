@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Samusn/Samusn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Samuel**, a software developer based in Switzerland 🇨🇭.
 
-Here are some ideas to get you started:
+I am a passionate software developer and am interested in all kinds of technologies. I am not afraid to learn new technologies and network with new people.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📫 Stay in Contact
+
+You can stay in contact with me on **LinkedIn**:  
+➡️ [linkedin.com/in/my-profil](https://www.linkedin.com/in/samuel-soun-a49049247/)
+
+
+---
