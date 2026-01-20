@@ -42,5 +42,5 @@
 </p>
 
 <p align="center">
-  📫 Stay in contact with me on LinkedIn: [LinkedIn Profile](https://linkedin.com/in/my-profil)
+  📫 Stay in contact with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/samuel-soun-a49049247/)
 </p>
